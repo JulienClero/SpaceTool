@@ -46,7 +46,9 @@ Install dependencies with:
 
 pip install -r requirements.txt
 
-##🎮 Controls
+---
+
+## 🎮 Controls
 
 | Action        | Control                             |
 | ------------- | ----------------------------------- |
