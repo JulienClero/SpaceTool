@@ -27,9 +27,9 @@ Bodies follow Newtonian gravity with RK4 integration and are rendered with VBO-b
 
 ## 🖥 GUI Preview
 
-| Scene | Controls |
-|-------|----------|
-| ![Scene](docs/SpaceTool_V0.1.png) | ![Controls](docs/preview_ui.png) |
+| Scene |
+|-------|
+| ![Scene](docs/SpaceTool_V0.1.png) |
 
 
 ---
