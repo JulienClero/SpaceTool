@@ -7,7 +7,7 @@ Created on Thu Mar 27 17:33:28 2025
 import numpy as np
 import random
 from tqdm import tqdm
-from UI import *
+from SpaceTool_GUI import *
 
 class Const:
     def __init__(self, G = 6.67430e-11, Gkm = 6.674184e-20, Gua = 1.48815931E-34):
